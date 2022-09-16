@@ -3,9 +3,9 @@
 
 #Education & Organizations
 ---
-🏫 [University of Rochester](https://www.rochester.edu) Dean's Scholar, Computer Science'25
-👾 [DandyHacks](https://dandyhacks.net/index.html) IT Member co-organizer
-📂 [Atlantis Smart Homes](https://github.com/farouqalsalih/AtlantisShowerUI) Founder & Software Engineer
+🏫 [University of Rochester](https://www.rochester.edu) Dean's Scholar, Computer Science'25. 
+👾 [DandyHacks](https://dandyhacks.net/index.html) IT Member co-organizer. 
+📂 [Atlantis Smart Homes](https://github.com/farouqalsalih/AtlantisShowerUI) Founder & Software Engineer. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
