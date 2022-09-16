@@ -8,7 +8,7 @@ Education & Organizations
 👾 [DandyHacks](https://dandyhacks.net/index.html) 2022 IT Member, co-organizer  
 📂 [Atlantis Smart Homes](https://github.com/farouqalsalih/AtlantisShowerUI) Founder & Software Engineer 
 
-ME
+Abouy Myself
 ---
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Swift, SwiftUI, and C
