@@ -1,5 +1,5 @@
 ## Hi, I'm Farouq 👋
-
+Software Engineer, entrepeneur, and aspiring tech lead
 Education & Organizations
 ---
 🏫 [University of Rochester](https://www.rochester.edu) Dean's Scholar, Computer Science '25  
