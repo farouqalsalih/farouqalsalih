@@ -3,10 +3,8 @@
 
 #Education & Organizations
 ---
-🏫 [University of Rochester](https://www.rochester.edu) Dean's Scholar, Computer Science'25. 
-
-👾 [DandyHacks](https://dandyhacks.net/index.html) IT Member co-organizer. 
-
+🏫 [University of Rochester](https://www.rochester.edu) Dean's Scholar, Computer Science '25  
+👾 [DandyHacks](https://dandyhacks.net/index.html) 2022 IT Member, co-organizer  
 📂 [Atlantis Smart Homes](https://github.com/farouqalsalih/AtlantisShowerUI) Founder & Software Engineer. 
 
 
