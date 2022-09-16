@@ -9,6 +9,7 @@ Education & Organizations
 📂 [Atlantis Smart Homes](https://github.com/farouqalsalih/AtlantisShowerUI) Founder & Software Engineer 
 
 ME
+---
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Swift, SwiftUI, and C
 - 🤔 I’m looking for help with securing a Software Engineering internship for Summer 2023
