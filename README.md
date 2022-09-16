@@ -1,7 +1,7 @@
-### Hi, I'm Farouq 👋
+## Hi, I'm Farouq 👋
 ---
 
-#Education & Organizations
+Education & Organizations
 ---
 🏫 [University of Rochester](https://www.rochester.edu) Dean's Scholar, Computer Science '25  
 👨🏽‍🏫 [Workshop Leader / Teaching Assistant](https://rochester.edu/College/CWE/model.html) Data Structures & Algorithms, Intro to Computer Science  
