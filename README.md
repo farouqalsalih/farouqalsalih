@@ -4,7 +4,7 @@
 #Education & Organizations
 ---
 🏫 [University of Rochester](https://www.rochester.edu) Dean's Scholar, Computer Science '25  
-👨🏽‍🏫 [Workshop Leader / Teaching Assistant](https://rochester.edu/College/CWE/model.html) Data Structures & Algorithms, Intro to Computer Science
+👨🏽‍🏫 [Workshop Leader / Teaching Assistant](https://rochester.edu/College/CWE/model.html) Data Structures & Algorithms, Intro to Computer Science  
 👾 [DandyHacks](https://dandyhacks.net/index.html) 2022 IT Member, co-organizer  
 📂 [Atlantis Smart Homes](https://github.com/farouqalsalih/AtlantisShowerUI) Founder & Software Engineer 
 
