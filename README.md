@@ -20,8 +20,6 @@ About Myself
 - 🌱 I’m currently learning Swift, SwiftUI, C, and front-end web development
 - 🤔 I’m looking for help with securing a Software Engineering internship for Summer 2023
 - 📫 How to reach me: falsalih@u.rochester.edu
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: From Iraq 🇮🇶
 
 
 <!--
