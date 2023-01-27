@@ -17,7 +17,7 @@ Skills
 About Myself
 ---
 - 🔭 I’m currently working on building a personal website
-- 🌱 I’m currently learning Swift, SwiftUI, C, and front-end web development
+- 🌱 I’m currently learning back-end development
 - 🤔 I’m looking for help with securing a Software Engineering internship for Summer 2023
 - 📫 How to reach me: falsalih@u.rochester.edu
 
