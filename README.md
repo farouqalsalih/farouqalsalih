@@ -10,15 +10,19 @@ Education & Organizations
 
 Skills
 ---
-☕️ Java  
-🧑🏽‍💻 C#, WPF, .NET Core, XAML  
-🧑🏽‍💻 HTML/CSS  
+☕️ Java
+⚙️ Rust
+🐍 Python (Pandas, Flask)
+🕊 Swift (SwiftUI)
+🧑🏽‍💻 MySQL, SQLite
+🧑🏽‍💻 AWS (Batch, RDS, S3, EC2)
+🧑🏽‍💻 C# (WPF, .NET Core, XAML)
+🧑🏽‍💻 HTML/CSS
 
 About Myself
 ---
-- 🔭 I’m currently working on building a personal website
 - 🌱 I’m currently learning back-end development
-- 🤔 I’m looking for help with securing a Software Engineering internship for Summer 2023
+- 🤔 I’m seeking a Software Engineering internship for Summer 2024
 - 📫 How to reach me: falsalih@u.rochester.edu
 
 
