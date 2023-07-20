@@ -10,14 +10,14 @@ Education & Organizations
 
 Skills
 ---
-☕️ Java
-⚙️ Rust
-🐍 Python (Pandas, Flask)
-🕊 Swift (SwiftUI)
-🧑🏽‍💻 MySQL, SQLite
-🧑🏽‍💻 AWS (Batch, RDS, S3, EC2)
-🧑🏽‍💻 C# (WPF, .NET Core, XAML)
-🧑🏽‍💻 HTML/CSS
+☕️ Java 
+⚙️ Rust 
+🐍 Python (Pandas, Flask) 
+🕊 Swift (SwiftUI) 
+🧑🏽‍💻 MySQL, SQLite 
+🧑🏽‍💻 AWS (Batch, RDS, S3, EC2) 
+🧑🏽‍💻 C# (WPF, .NET Core, XAML) 
+🧑🏽‍💻 HTML/CSS 
 
 About Myself
 ---
