@@ -1,5 +1,5 @@
 ## Hi, I'm Farouq 👋
-Aspiring software engineer and tech lead  
+Software engineer and aspiring tech lead  
 
 Education & Organizations
 ---
