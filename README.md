@@ -12,7 +12,7 @@ Skills
 ---
 ☕️ Java  
 ⚙️ Rust  
-🐍 Python (Pandas, Flask)  
+🐍 Python (Flask, FastAPI)  
 🕊 Swift (SwiftUI)  
 🧑🏽‍💻 MySQL, SQLite  
 🧑🏽‍💻 AWS (Batch, RDS, S3, EC2)  
