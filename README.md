@@ -24,8 +24,8 @@ Skills
 About Myself
 ---
 - 🌱 I’m currently learning back-end development
-- 🤔 I’m seeking a Software Engineering internship for Summer 2024
-- 📫 How to reach me: falsalih@u.rochester.edu
+- 🤔 I’m seeking a Software Engineering internship for Spring 2024 / Fall 2024
+- 📫 How to reach me: farouqalsalih@gmail.com
 
 
 <!--
