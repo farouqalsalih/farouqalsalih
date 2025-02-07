@@ -23,8 +23,7 @@ Skills
 
 About Myself
 ---
-- 🌱 I’m currently learning back-end development
-- 🤔 I’m seeking a Software Engineering internship for Spring 2024 / Fall 2024
+- 🌱 Currently expanding my skillset in back-end development
 - 📫 How to reach me: farouqalsalih@gmail.com
 
 
