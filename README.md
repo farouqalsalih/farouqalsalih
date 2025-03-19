@@ -1,13 +1,12 @@
 ## Hi, I'm Farouq 👋
 Software engineer and aspiring tech lead  
 
-Education & Organizations
+Education & Experience
 ---
-🏫 [University of Rochester](https://www.rochester.edu) Dean's Scholar, Computer Science '25  
-👨🏽‍🏫 [Workshop Leader / Teaching Assistant](https://rochester.edu/College/CWE/model.html) Data Structures & Algorithms, iOS Development, Object-Oriented Programming  
+🏫 [University of Rochester](https://www.rochester.edu) Dean's Scholar, Computer Science '25, Teaching Assistant, Summer 2023 Research Assistant  
 👾 [DandyHacks](https://dandyhacks.net/index.html) 2022 & 2023 IT Member, co-organizer  
-📂 [Atlantis Smart Homes](https://github.com/farouqalsalih/AtlantisShowerUI) Founder & Software Engineer  
-📂 [Argus Investments](https://www.argus.investments) Founder & Software Engineer 
+📂 [Atlassian](https://www.atlassian.com/) Summer 2024 Software Engineer Intern  
+📂 [NASA](https://www.nasa.gov/) Summer 2020 High School Software Engineer Intern 
 
 
 Skills
